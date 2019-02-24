@@ -1,8 +1,8 @@
 # shake-table
-Circuit diagram and Arduino Programs to build and operate an earthquake-simulating shake table.
-Built using Arudino Mega 2560 Rev 3
+Circuit diagram and Arduino Programs to build and operate an earthquake-simulating shake table. <br>
+Built using Arudino Mega 2560 Rev 3 <br>
 Feature list:
-* movement in X and Y axes
+* Movement in X and Y axes
 * 9 DC motors
 * 16 low-power vibrating motors for aftershock simulation
 * Multiple potentiometers for active control of shake power 
